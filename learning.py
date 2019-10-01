@@ -18,5 +18,5 @@ print(" Is it true that 3 + 2 < 5 -7?")
 print(3 + 2 < 5 - 7)
 
 #print about how many stamps i have
-print("how many stamps do I have")
+print("how many ounces of milk do I have")
 #put in math equation for how many stamps I have
