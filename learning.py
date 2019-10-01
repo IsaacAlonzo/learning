@@ -23,4 +23,5 @@ print("how many ounces of milk do I have")
 print(3.0 + 0.5)
 #put in math equation for how many stamps I have and made the floating numbers only go to 2 floating numbers
 print("%.2f" % 3.5)
-
+#by inputing this command I now made my equation go to 2 decimal places in order to make it more precise
+#This way I can make sure that my equation is precise for someone who needs it
