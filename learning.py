@@ -16,3 +16,7 @@ print("Now I will count the eggs:")
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 +6)
 print(" Is it true that 3 + 2 < 5 -7?")
 print(3 + 2 < 5 - 7)
+
+#print about how many stamps i have
+print("how many stamps do I have")
+#put in math equation for how many stamps I have
