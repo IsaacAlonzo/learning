@@ -19,4 +19,8 @@ print(3 + 2 < 5 - 7)
 
 #print about how many stamps i have
 print("how many ounces of milk do I have")
-#put in math equation for how many stamps I have
+#now I am going to add my equation and get my answer
+print(3.0 + 0.5)
+#put in math equation for how many stamps I have and made the floating numbers only go to 2 floating numbers
+print("%.2f" % 3.5)
+
