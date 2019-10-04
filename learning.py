@@ -56,3 +56,5 @@ myHair = "Curly"
 print("Let's talk about %s." % myName)
 print("He's %d inches tall." % myHeight)
 print("He's got %s eyes and %s hair." % (myEyes, myHair))
+print("His teeth \tare usually %s depending \n on his drink." %myTeeth)
+print("if I add %d and %d, I get %d." % (myAge, myHeight, myAge + myHeight))
